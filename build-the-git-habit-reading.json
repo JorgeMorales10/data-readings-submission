@@ -1,0 +1,96 @@
+{
+  "readingId": "build-the-git-habit-reading",
+  "title": "Build the Git Habit",
+  "timestamp": "2026-10-01T02:56:43.518Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "videoreflect": "One moment in the video where the commit size looked exactly right was the message and being able to see it through the log in as well as the git status. I was confused for a while until I see the reason and order it was put through to show the point of the commit and fixing it.",
+    "strategy": "Saving all your edits for giant commit will become a real problem later is because you won't know what specific problem you fixed or how you fix it because they are in one. You will be lost for not knowing where to start or even begin looking.",
+    "clue": "What you should make multiple commits instead of one before Friday's demo to be able to see the history of the many changes you made. This will leave checkpoints you can return to and seek specific changes."
+  },
+  "score": {
+    "earned": 15,
+    "possible": 15,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-prereq1": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-prereq2": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-cost": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-statushabit": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-order-steps": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-video": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "video"
+    },
+    "resp-videoreflect": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-clue": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-terminal": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-msg": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}
