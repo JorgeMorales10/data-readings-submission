@@ -1,0 +1,131 @@
+{
+  "readingId": "control-flow-conditionals-reading",
+  "title": "Choose, Repeat, Trace — Control Flow & Conditionals",
+  "timestamp": "2026-10-21T21:14:58.232Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "strategy": "Before I run the code do a double check on the iterations from first and last just in case an error will pop up.",
+    "videoreflect": "One moment where the video explanation didn't match how I was picturing loop was break and continue with loops to either stop it all together once it finds the value or continuing the finishing all the list of values after finding the one value.",
+    "clue": "The way I can tell when a line belongs to a loop's body or not is by the colon \":\" which is the beginning of the loop body and how each line created isn't align with the head of the loop."
+  },
+  "score": {
+    "earned": 21,
+    "possible": 22,
+    "pct": 95.5
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-compare": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-list": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-why": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-foriter": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-rangebound": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-whiletrace": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-combo": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-bridge": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-triggers": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-order-while": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-video": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "video"
+    },
+    "resp-videoreflect": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "resp-clue": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-blank": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-obo": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}
