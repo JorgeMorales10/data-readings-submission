@@ -1,0 +1,92 @@
+{
+  "readingId": "big-o-intuition-reading",
+  "title": "When the Crowd Grows — Big-O Intuition",
+  "timestamp": "2026-10-27T22:39:36.451Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "explain": "O(n) is like when you're looking for a specific shirt to wear and you go through your drawers checking each one from top to bottom, while O(1) is like looking for your car in a garage and you press one button from your car keys and find it immediately."
+  },
+  "done": [
+    "q-recall-dict",
+    "q-blank",
+    "q-recall-worst",
+    "q-find",
+    "q-growth",
+    "q-double",
+    "q-classify",
+    "q-misconception",
+    "q-selectall",
+    "q-bridge",
+    "resp-explain"
+  ],
+  "score": {
+    "earned": 10.5,
+    "possible": 12,
+    "pct": 87.5
+  },
+  "scoreDetail": {
+    "q-recall-dict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-recall-worst": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-find": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-growth": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-double": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-classify": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-misconception": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-bridge": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-explain": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
