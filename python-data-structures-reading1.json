@@ -1,0 +1,87 @@
+{
+  "readingId": "python-data-structures-reading1",
+  "title": "Pick the Right Container — Python Data Structures",
+  "timestamp": "2026-10-30T00:47:39.660Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "strategy": "What would you consider a game that involves showing you multiple characters with each having its own stats."
+  },
+  "done": [
+    "q-recall",
+    "q-loop",
+    "q-append",
+    "q-tuple-predict",
+    "q-dict",
+    "q-blank",
+    "q-setlen",
+    "act-drag-containers",
+    "q-summary",
+    "act-flip-vocab",
+    "resp-strategy"
+  ],
+  "score": {
+    "earned": 11,
+    "possible": 11,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-loop": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-append": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-tuple-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-dict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-setlen": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-containers": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
