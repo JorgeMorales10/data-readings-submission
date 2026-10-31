@@ -1,0 +1,105 @@
+{
+  "readingId": "data-serialization-reading",
+  "title": "Make It Survive — Data Serialization",
+  "timestamp": "2026-10-31T01:20:05.483Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "ownwords": "The way I would check if the saved data come's back the way I would expect is to make sure it returns the same by seeing they have returned the way I left it and not have the value change.\n"
+  },
+  "done": [
+    "q-recall",
+    "q-tuple",
+    "act-drag-formats",
+    "q-anatomy",
+    "q-write",
+    "q-fnnames",
+    "act-terminal-roundtrip",
+    "q-round1",
+    "q-round2",
+    "q-round3",
+    "q-selectall",
+    "q-summary",
+    "resp-ownwords",
+    "act-flip-vocab"
+  ],
+  "score": {
+    "earned": 14,
+    "possible": 14,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-recall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-tuple": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-formats": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-anatomy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-write": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fnnames": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round1": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round2": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round3": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-ownwords": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-terminal-roundtrip": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
