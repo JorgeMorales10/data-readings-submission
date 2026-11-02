@@ -1,0 +1,96 @@
+{
+  "readingId": "first-validation-function-reading1",
+  "title": "Trust, But Verify — Designing Your First Validation Function",
+  "timestamp": "2026-11-02T05:35:47.629Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "blankA": "enumerate",
+    "blankB": "isdigit",
+    "blankC": "problems",
+    "isolate": "S-056|11|, S-055|15th|Science, it would return saying there are 2 problems. First, it will say only 2 fields spotted and then it will say 15th is not a number."
+  },
+  "done": [
+    "q-index",
+    "q-return",
+    "q-split",
+    "q-grade",
+    "q-contract",
+    "q-enum",
+    "q-fillfn",
+    "q-debug",
+    "act-drag-sort",
+    "q-summary",
+    "resp-isolate",
+    "act-flip-vocab"
+  ],
+  "score": {
+    "earned": 12,
+    "possible": 12,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-index": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-return": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-split": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-grade": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-contract": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-enum": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-sort": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-isolate": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-fillfn": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}
