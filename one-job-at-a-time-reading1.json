@@ -1,0 +1,99 @@
+{
+  "readingId": "one-job-at-a-time-reading1",
+  "title": "One Job at a Time — Writing a Second, Single-Job Function",
+  "timestamp": "2026-11-04T23:26:35.285Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "isolate": "I would say this would belong in a whole new function to build of it because it's already not in the summarize_steps and adding more functions to it already could cause an extra error that we would have to check each line. While creating a new line of function we can easily spot the problem outside the function."
+  },
+  "done": [
+    "q-unpack",
+    "q-loopcount",
+    "act-drag-jobs",
+    "q-total",
+    "q-fillfn",
+    "q-trace",
+    "q-alert",
+    "act-sim-run",
+    "q-debug",
+    "q-selectall",
+    "act-flip-vocab",
+    "q-summary",
+    "resp-isolate"
+  ],
+  "score": {
+    "earned": 13,
+    "possible": 13,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-unpack": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-loopcount": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-jobs": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-total": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fillfn": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-trace": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-alert": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-sim-run": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-debug": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-isolate": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
