@@ -1,0 +1,88 @@
+{
+  "readingId": "try-it-catch-it-keep-going-reading",
+  "title": "Try It, Catch It, Keep Going — Error Handling",
+  "timestamp": "2026-11-04T01:33:09.028Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "blankinput": "IndexError",
+    "explain": "When a line try raises an exception that matches an except then it prints out the int with its reason why it wasn't accepted or following up with a False and continues reading the rest of the other lines continuing to search for more errors."
+  },
+  "done": [
+    "q-split",
+    "q-isdigit",
+    "q-crash",
+    "act-flip-vocab",
+    "q-fail",
+    "q-two",
+    "q-interview",
+    "q-blank",
+    "q-selectall",
+    "q-sortjob",
+    "resp-explain"
+  ],
+  "score": {
+    "earned": 10.5,
+    "possible": 11,
+    "pct": 95.5
+  },
+  "scoreDetail": {
+    "q-split": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-isdigit": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-crash": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fail": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-two": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-interview": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-sortjob": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-explain": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}
