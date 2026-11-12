@@ -1,0 +1,87 @@
+{
+  "readingId": "two-ways-introduce-object-reading",
+  "title": "Two Ways to Introduce an Object",
+  "timestamp": "2026-11-12T03:45:37.646Z",
+  "persona": {
+    "name": "Bold Badger",
+    "emoji": "🦡"
+  },
+  "responses": {
+    "strategy": "To predict whether Python will use __str__ is if it returns a friendly string for people with print() uses it. While __repr__ returns an exact string for programmers with repr() and list uses it."
+  },
+  "done": [
+    "q-attr",
+    "q-fstring",
+    "q-round2",
+    "q-round3",
+    "act-fillcode-repr",
+    "q-round4",
+    "q-round5",
+    "act-drag-scope",
+    "q-summary",
+    "resp-strategy",
+    "act-flip-vocab"
+  ],
+  "score": {
+    "earned": 11,
+    "possible": 11,
+    "pct": 100
+  },
+  "scoreDetail": {
+    "q-attr": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fstring": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round2": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round3": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round4": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-round5": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-scope": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-strategy": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-fillcode-repr": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
